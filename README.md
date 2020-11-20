@@ -14,6 +14,11 @@
 
 -[] tensorflow servinig
 
+[x] A
+[ ] B
+- [x] 已选中
+- [ ] 未选中
+
 ### TODO 模型T
 
 -[] ctc
