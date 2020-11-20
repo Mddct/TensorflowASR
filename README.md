@@ -5,6 +5,7 @@
 - [ ] tf.distribute.strategy
 - [ ] tf.distribute.DistributedDataset
 - [ ] tf.signal 
+- [ ] tf.text
 - [ ] tfrecords 
 - [ ] tflite
 - [ ] tensorflow servinig
