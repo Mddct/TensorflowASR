@@ -13,3 +13,5 @@
 6 fbak/mfcc 等特征提取单独以函数形式给出， dataset中调用这些函数
 
 7 模型输入签名
+
+8 multi tfrecorsds write  and distributed tfrecords reading. 
